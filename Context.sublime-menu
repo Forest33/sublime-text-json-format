@@ -1,0 +1,12 @@
+[
+  {
+    "caption": "JSON format",
+    "mnemonic": "f",
+    "id": "json_format",
+    "command": "json_format"    
+  },
+  {
+    "caption": "-",
+    "id": "separator"
+  }
+]
